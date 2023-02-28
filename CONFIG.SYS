@@ -1,0 +1,3 @@
+device=USBASPI.SYS /V 
+device=USBCD.SYS /D:MSCD001 
+device=DI1000DD.SYS
