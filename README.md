@@ -2,6 +2,8 @@
 
 ## Companion to "Installing Windows 98 from USB" on youtube
 
+Video is available here: https://youtu.be/8eoWyfLnmDA
+
 ### Method 1
 
 Use Method 1 if you:
